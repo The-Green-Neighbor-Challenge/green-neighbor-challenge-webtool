@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@font-face {
+  font-family: 'Leafy';
+  font-weight: 5;
+  src: local('Leafy'), url('../../fonts/leafy.otf') format('opentype');
+}
+
+:root {
+  --color-bkg-main: #EEE;
+  --color-bkg-dark: #264425;
+  --color-bkg-container: white;
+  --color-bkg-highlight: white;
+  --color-shadow: rgba(0,0,0,.5);
+
+  --color-primary: #508046;
+  --color-primary-light: #76A058;
+
+  --color-button-default-main: #CCC;
+  --color-button-default-light: #EEE;
+
+  --color-button-primary-main: dodgerblue;
+  --color-button-primary-light: #59BCFF;
+
+  --color-button-secondary-main: seagreen;
+  --color-button-secondary-light: mediumseagreen;
+
+  --color-button-negative-main: firebrick;
+  --color-button-negative-light: indianred;
+
+  --color-text-light: white;
+  --color-text-dark: #222;
+
+  --font-header: 'Leafy', sans-serif;
+  --font-button: "Roboto", "Helvetica", "Arial", sans-serif;
+  --font-main: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+
+body {
+  background-color: var(--color-bkg-main);
+  margin: 0;
+  height: 100vh;
+  font-family: var(--font-main);
+}
+
+.blur-background {
+  background-color: rgba(0,0,0, .5);
+}
+
+@supports (backdrop-filter: blur(4px)) {
+  .blur-background {
+    background-color: rgba(255, 255, 255, .1);
+    backdrop-filter: blur(20px);
+  }
+}
+
+.required {
+  color: red;
+  margin-right: 8px;
+}
+
+.admin-pages {
+  min-height: 100vh;
+  height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: var(--color-bkg-container);
+  border-radius: 16px;
+  padding: 16px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 4px -2px var(--color-shadow);
+}
+
+.highlight {
+  background-color: var(--color-bkg-highlight);
+  border-radius: 2px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.button-default, .button-primary, .button-secondary, .button-negative, .button-cancel{
+  outline: none;
+  border: none;
+  padding: 8px 24px;
+  box-shadow: 0 2px 2px -1px var(--color-shadow);
+  font-size: 1rem;
+  margin: 8px;
+  border-radius: 8px;
+  transition: all .2s;
+  background-color: var(--color-button-default-main);
+  font-family: var(--font-button);
+}
+
+.button-default:hover, .button-primary:hover, .button-secondary:hover, .button-negative:hover {
+  background-color: var(--color-button-default-light);
+  box-shadow: 0 6px 6px -4px var(--color-shadow);
+  cursor: pointer;
+}
+
+.button-wire {
+  outline: none;
+  font-size: 1em;
+  font-family: var(--font-button);
+  margin: 8px;
+  padding: 8px 24px;
+  text-shadow: 0 0 8px black;
+  background-color: rgba(255,255,255,.2);
+  color: white;
+  border: 1px solid white;
+  transition: all .2s;
+  border-radius: 4px;
+}
+
+.button-wire:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  text-shadow: 0 0 0px black;
+  padding: 8px 32px;
+}
+
+.button-primary {background-color: var(--color-primary); color: var(--color-text-light);}
+.button-primary:hover {background-color: var(--color-primary-light); color: var(--color-text-light);}
+
+.button-secondary {background-color: var(--color-button-secondary-main); color: var(--color-text-light);}
+.button-secondary:hover {background-color: var(--color-button-secondary-light); color: var(--color-text-light);}
+
+.button-negative {background-color: var(--color-button-negative-main); color: var(--color-text-light);}
+.button-negative:hover {background-color: var(--color-button-negative-light); color: var(--color-text-light);}
+
+/* Removing spinners from number inputs */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  white-space: nowrap;
+  border: none;
+  margin: 0;
+}
+
+.admin-table thead {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+.admin-table th {
+  height: 48px;
+  transition: all .2s;
+}
+
+.th-click:hover {
+  cursor: pointer;
+  background-color: var(--color-primary-light);
+}
+
+.admin-table tbody tr:nth-child(odd) {
+  background-color: #f6f6f6;
+}
+.admin-table tbody tr {
+  background-color: white;
+  font-family: var(--font-main);
+}
+
+.admin-table tbody tr:hover {
+  background-color: rgb(220,245,235);
+}
+
+.half-padding {
+  padding: 4px 12px;
+  margin: 0;
+}
+
+.nowrap {
+  white-space: nowrap;
+}

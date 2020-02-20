@@ -1,0 +1,722 @@
+EIAID	Utility Name	State	eiaSTATE	ProgramID	Program Name	Wind	Solar	Bio	Hydro	Geo	Other	Cost (c/kwh) 	Cost Range (c/kwh)	Credit (Y/N)	Credit (c/kwh)	Blocks Available	Block Size (kWh)	Block Cost ($)	Percentage Options	Percentage Range	Contract Lengths	Monthly Minimum	Termination Fee (Y/N)	Termination Cost (Description)	Green-e	RECs Retired?	Revenue Neutral?	Retail	Waitlist (Y/N)	Rating (TBD for now)	Link to Sign-up Form	Sign-Up URL	Step 1	Step 2	Step 3	Step 4	Step 5	Link to FAQ's	FAQ URL	sign in required?	account name required?	account number?	Address?	Enrollment choices?	must be printed/mailed?	Email	Contact URL	Phone	Date Updated	Notes	Production
+13780	Northern States Power Co	WI	13780WI	13780WI1	Renewable Connect 	0.8	0.2				0	4.34		Yes	3.39	Any	100	4.34	100		Monthly;5-year	No   	Yes	Total Cost of Remaining Contract	Yes	Yes	Yes				Enroll Now 	https://myaccount.xcelenergy.com/oam/programOpportunity.req?page=renewableconnect	sign in  																10-5-19	replaced windsource	1
+13780	Northern States Power Co	MI	13780MI	13780MI1	Windsource	1					0	1.19				Any	100	1.19	100		Monthly	12-month	No		Yes	Yes					Enroll Now	https://www.xcelenergy.com/programs_and_rebates/residential_programs_and_rebates/renewable_energy_options_residential/windsource_for_residences/residential_windsource_sign_up	make sure your state is chosen in top left hand corner	choose how much you want															10-5-19	2 different prices per block on different parts of website	1
+13781	Northern States Power Co - Minnesota	MN	13781MN	13781MN1	Windsource	1					0	3.53		Yes	2.73	Any	100	3.53	100		Monthly	12-month	No		Yes	Yes	Yes				Enroll Now	https://www.xcelenergy.com/programs_and_rebates/residential_programs_and_rebates/renewable_energy_options_residential/windsource_for_residences/residential_windsource_sign_up	make sure your state is chosen in top left hand corner	choose how much you want															10-5-19		1
+13781	Northern States Power Co - Minnesota	MN	13781MN	13781MN2	Renewable Connect	0.67	0.33				0	3.6		Yes	2.73	Any	100	3.6	100		Monthly;5-year;10 year	No   	Yes	1 cent per kwh for prior 12 month usage	Yes	Yes	Yes				Waitlist Enroll	https://xcelenergy.force.com/RenewableConnect/RC_EnrollmentPage?AccType=Residential	fill out waitlist form																10-5-19	Prices vary with the contractual agreements	1
+14328	Pacific Gas & Electric Co.	CA	14328CA	14328CA1	Solar Choice		1				0	0.66		Included		No			50;100		Monthly	No	No	(Can only change percentage once every 12 months)	Yes	Yes					Enroll Now	https://m.pge.com/?WT.mc_id=Vanity_myrate#login						FAQ	https://www.pge.com/en_US/residential/solar-and-vehicles/options/solar/solar-choice/faq.page									877-743-4112	11-29-19	phone number is specifically for solar inquiries	1
+19876	Virginia Electric & Power Co	VA	19876VA	19876VA1	Dominion Energy Green Power	0.56	0.1	0.34			0	1.3		No		Any	154		100		Monthly	No	No		Yes	Yes	Yes		No		Enroll Now	https://www.dominionenergy.com/home-and-small-business/renewable-energy-programs/va-green-power/sign-up/greenpower-enrollment								No	Yes	No	Yes	Yes	No	Customer Relation Contact	https://www.dominionenergy.com/contact-us/email-customer-relations-va-nc	866-366-4357	11-28-19	there is an online enrollment form as well	1
+7140	Georgia Power Co	GA	7140GA	7140GA1	Simple Solar		1				0			No		No			50;100		Monthly	No	No			Yes					Enroll Now	https://www.georgiapower.com/company/energy-industry/energy-sources/solar-energy/solar/simple-solar/simple-solar-sign-up-form.html	hit submit													G2GPCCSOLAR@SOUTHERNCO.COM		888-660-5890	09/28/2019	georgia power	1
+5109	DTE Electric Company	MI	5109MI	5109MI1	MI Green Power	0.5	0.5				0	7.2			3.9	No				17.5-100	Monthly	No	No		Yes						Enroll Now	https://newlook.dteenergy.com/wps/wcm/connect/dte-web/quicklinks/migreenpower/migp-process																855-613-4445	9-28-19	DTE Energy 	1
+14354	PacifiCorp	WA	14354WA	14354WA1	Blue Sky Block	0.4	0.6				0	1.95				Any	100	1.95			Monthly	No	No		Yes	No					Enroll Now	https://csapps.pacificpower.net/idm/login																888 221 7070	10-18-2019	PacifiCorp	1
+14354	PacifiCorp	OR	14354OR	14354OR2	Blue Sky Block	0.4	0.6				0	1.95				Any	100	1.95			Monthly	No	No		Yes	No					Enroll Now	https://csapps.pacificpower.net/idm/login																888 221 7070	10-18-2019	PacifiCorp	1
+14354	PacifiCorp	OR	14354OR	14354OR3	Blue Sky Usage	0.8	0.17	0.02		0.01	0	1.05						1.05			Monthly	No	No		Yes	No					Enroll Now	https://csapps.pacificpower.net/idm/login																888 221 7070	10-18-2019	PacifiCorp	1
+14354	PacifiCorp	CA	14354CA	14354CA4	Blue Sky Block	0.4	0.6				0	1.95				Any	100	1.95			Monthly	No	No		Yes	No					Enroll Now	https://csapps.pacificpower.net/idm/login																888 221 7070	10-18-2019	PacifiCorp	1
+14354	PacifiCorp	UT	14354UT	14354UT5	Blue Sky Block	0.4	0.6				0	1.95				Any	100	1.95			Monthly	No	No		Yes	No					Enroll Now	https://csapps.rockymountainpower.net/idm/login																888 221 7070	10-18-2019	PacifiCorp	1
+14354	PacifiCorp	WY	14354WY	14354WY6	Blue Sky Block	0.4	0.6				0	1.95				Any	100	1.95			Monthly	No	No		Yes	No					Enroll Now	https://csapps.rockymountainpower.net/idm/login																888 221 7070	10-18-2019	PacifiCorp	1
+14354	PacifiCorp	ID	14354ID	14354ID7	Blue Sky Block	0.4	0.6				0	1.95				Any	100	1.95			Monthly	No	No		Yes	No					Enroll Now	https://csapps.rockymountainpower.net/idm/login																888 221 7070	10-18-2019	PacifiCorp	1
+4254	Consumers Energy Co	MI	4254MI	4254MI1	Green Generation	0.7		0.3			0	1				Any	150	1.5	100		Monthly	12-month	No			Yes			Yes		Program Information	https://www.consumersenergy.com/residential/renewable-energy/green-generation														greenpower@cmsenergy.com		517 788 2983	10-25-2019	waitlist is currently full	1
+19327	TXU Energy Retail Co, LLC	TX	19327TX	19327TX1	GreenUp	1					0																	Yes																		Contact Us Form	https://www.txu.com/en/help-center/contact-us/email-form.aspx	972 791 2888	12-1-2019	TXU Energy Retail	0
+19327	TXU Energy Retail Co, LLC	TX	19327TX	19327TX2	Solar Advantage		1				0																	Yes																					12-1-2019	TXU Energy Retail	0
+11208	Los Angeles Department of Water & Power	CA	11208CA	11208CA1	Green Power	1					0					No			100		Monthly										Enroll Now	https://www.ladwp.com/oamsso/login.html?contextType=external&username=string&contextValue=%2Foam&password=sercure_string&challenge_url=https%3A%2F%2Fwww.ladwp.com%2Foamsso%2Flogin.html&request_id=-6411536945952707840&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fwww.ladwp.com%252Fladwp%252Ffaces%252FRequestService%253F_afrLoop%253D1595303046844572%2526_afrWindowMode%253D0%2526	log in to account 																10-20-2019	3 size levels of consumers, different minimum purchase amounts 	1
+16609	San Diego Gas & Electric Co	CA	16609CA	16609CA1	EcoChoice		1				0	-0.438				No				50-100	Monthly	12-month	Yes		Yes	Yes			Yes		Enroll Now	https://sdge-eecp.semprautilities.com/OnlineApp/#enrollment/?programId=180	enter account number	enter street number	enter zip code	hit submit										CTTS@sdge.com			10-25-2019		1
+195	Alabama Power Co	AL	195AL	195AL1	Greener State						1	0.125				Any	1000	1.25	100		12-month	12-month	No								Choose Your Plan	https://greenerstate.com/residential/	fill out order																10-27-2019	3 organized plans with set monthly fees, and a customizable plan	1
+15847	Reliant Energy Retail Services	TX	15847TX	15847TX1	Reliant Local Solar 12 Plan		1				0		13.9-16.5			Fixed	500;1000;2000	82.50;148;278			12-month	12-month	No			Yes		Yes			Enroll Now	https://www.reliant.com/public/signUp.htm																	10-29-2019	look into wind plan	0
+15466	Public Service Co of Colorado	CO	15466CO	15466CO1	Renewable Connect		1				0	4.4			3.7				100		Monthly;5-year;10-year	No	Yes	Total Cost of Remaining Contract	Yes	Yes					Waitlist Enroll	https://myaccount.xcelenergy.com/oam/programOpportunity.req?page=renewableconnect	sign in or register																10-30-2019		1
+15466	Public Service Co of Colorado	CO	15466CO	15466CO2	Windsource	1					0	1.5				Any	100	1.5	100		Monthly	No	No		Yes	Yes					Enroll Now	https://www.xcelenergy.com/programs_and_rebates/residential_programs_and_rebates/renewable_energy_options_residential/windsource_for_residences/residential_windsource_sign_up	fill out form	submit															10-30-2019		1
+13573	Niagara Mohawk Power Corp.	NY	13573NY	13573NY1	ClearGreenGurantee12						1	5.09									12-month	12-month	Yes					Yes			Enroll Now	https://www.chooseenergy.com/shop/checkout/residential/NY/13208/personal-info/?electricity=234164&eSlug=clearview-energy-ny-residential-electricity&electricityUtilitySlug=national-grid-ny-electricity&ref=DESKTOP																	10-30-2019	through separate website than the energy provider?	0
+13573	Niagara Mohawk Power Corp.	NY	13573NY	13573NY2	GreenValueAssurance6						1	5.59									6-month	No	No					Yes			Enroll Now	https://www.chooseenergy.com/shop/checkout/residential/NY/13208/personal-info/?electricity=230466&eSlug=clearview-energy-ny-residential-electricity&electricityUtilitySlug=national-grid-ny-electricity&ref=DESKTOP																	11-01-2019	through separate website than the energy provider?	0
+13573	Niagara Mohawk Power Corp.	NY	13573NY	13573NY3	12 Month Green Electricity Plan	1					0	5.95									12-month	No	Yes					Yes			Enroll Now	https://www.constellation.com/content/constellation/en/solutions/for-your-home/residential-signup.html?zip=13203&promoCode=ROCKSTAR	fill in information																11-01-2019	through separate website than the energy provider?	0
+803	Arizona Public Service Co	AZ	803AZ	803AZ1	Green Choice Program 	0.86		0.14			0	1.02				Any	100	1.02	10;35;50;100;		12-month	12-month									Choose Option	https://www.aps.com/en/Residential/Service-Plans/Compare-Service-Plans/Green-Choice-Program	select option	fill out form	sign up														11-02-2019		1
+54820	Direct Energy Services	TX	54820TX	54820TX1	Green Texas 12						1		11.8-13.5			No			100		12-month	12-month	Yes	135		Yes					Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Green Texas 12	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	NY	54820NY	54820NY2	Go Green Lights 24						1		5.69-9.99			No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	IL	54820IL	54820IL3	Go Green Lights 24						1	8.69				No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	PA	54820PA	54820PA4	Go Green Lights 24						1		5.89-7.59			No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	OH	54820OH	54820OH5	Go Green Lights 24						1		5.39-5.89			No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	MA	54820MA	54820MA6	Go Green Lights 12						1	12.99				No			100		12-month	12-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 12	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	MA	54820MA	54820MA7	Go Green Lights 14						1	11.78				No			100		14-month	14-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 14	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	MA	54820MA	54820MA8	Go Green Lights 18						1	12.79				No			100		18-month	18-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 18	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	MA	54820MA	54820MA9	Go Green Lights 36						1	12.59				No			100		36-month	36-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 36	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	CT	54820CT	54820CT10	Go Green Lights 24						1		9.29-9.79			No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	MD	54820MD	54820MD11	Go Green Lights 24						1		6.29-8.09			No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	NJ	54820NJ	54820NJ12	Go Green Lights 24						1		9.89-13.29			No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	NH	54820NH	54820NH13	Go Green Lights 24						1	8.59				No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	DE	54820DE	54820DE14	Go Green Lights 24						1	7.09				No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+54820	Direct Energy Services	DC	54820DC	54820DC15	Go Green Lights 24						1	8.29				No			100		24-month	24-month	No			Yes		Yes			Shop Electricity Plans	https://www.directenergy.com/ct/electricity-plans	enter zip code	select service provider	filter by: green energy	select Go Green Lights 24	log in or enter new info												11-02-2019	Direct Energy Services	0
+19436	Union Electric Co - (MO)	MO	19436MO	19436MO1	Pure Power	1					0			No		Max 2	500		100		Monthly	No	No		Yes	Yes	Yes?				Enroll Now	https://www.ameren.com/Account/Login?target=https%3A%2F%2Fwww.ameren.com%2Faccount%2Fprot%2Fmanage-profile-programs%3Fop%3Dpurepower	enter user id and password																11-03-2019	part in FAQ about how they do not make money off of this program, revenue neutral?	1
+20847	Wisconsin Electric Power Co	WI	20847WI	20847WI1	Energy for Tomorrow	0.71	0.01	0.28			0		.502-2.007			No			25;50;100		Monthly	No	No		Yes						Enroll Now	https://www.we-energies.com/secure/energy_for_tomorrow.htm	select level	fill out info	acknowledge terms and conditions	sign up													11-03-2019		1
+20847	Wisconsin Electric Power Co	MI	20847MI	20847MI2	Energy for Tomorrow	0.71	0.01	0.28			0		.502-2.007			No			25;50;100		Monthly	No	No		Yes						Enroll Now	https://www.we-energies.com/secure/energy_for_tomorrow.htm	select level	fill out info	acknowledge terms and conditions	sign up													11-03-2019		1
+15500	Puget Sound Energy Inc	WA	15500WA	15500WA1	Solar Choice		1				0	3.33				Any	150		100		Monthly	No	No		Yes		Yes?				Enroll Now	https://www.pse.com/login	sign in  																11-03-2019	part in FAQ about how they do not make money off of this program, revenue neutral?	1
+15500	Puget Sound Energy Inc	WA	15500WA	15500WA2	Green Power	0.6	0.3	0.08	0.01	0.01	0					Min 2	200		100		Monthly	No	No		Yes		Yes?				Enroll Now	https://www.pse.com/login	sign in																11-08-2019		1
+16572	Salt River Project	AZ	16572AZ	16572AZ1	EarthWise Energy	0.34	0.33	0.33			0					No			25;50;100		Monthly	No	No			Yes					Enroll Now	https://myaccount.srpnet.com/power/earthwiseenergy	scroll down	fill out info	submit														11-08-2019		1
+13407	Nevada Power Co	NV	13407NV	13407NV1	Green Energy Choice		0.1		0.05	0.85	0	4.2				No			50;100		12-month	12-month				Yes					Enroll Now	https://www.nvenergy.com/account-services/energy-pricing-plans/green-energy/sign-up	enter info	continue	review	confirm													11-08-2019		1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD1	Eco-Advantage	1					0	6.65				No			100		12-month	12-month	No		Yes						Enroll Now	https://enroll.aepenergy.com/acquisition/zipcode	enter zip code	select option with renewable energy	hit next	fill out information	complete enrollment												11-08-2019	through AEP Energy for Baltimore Gas and Electric	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD2	Pure Wind	1					0		2.3-2.5			No			50;100		Monthly	No	No		Yes						Enroll Now	https://www.ageraenergy.com/your-business/renewable-energy-certificates-business/	scroll down	enroll now	enter zip code														11-09-2019	through Agera energy for Baltimore Gas and Electric	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD3	GreenChoice  	1					0	1.5				Max 3	500	7.5			Monthly				Yes						Enroll Now	https://www.agwayenergy.com/utility-form/?commodity=electric&customerType=resi&state=maryland	select BG&E	click here to hear more about Agway GreenChoice Program	change button to yes	continue	fill out information												11-09-2019	through Agway Energy services for Baltimore Gas and Electric (BG&E)	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD4	Green Plan	1					0	9.0946							100		Monthly	No	No		Yes						Enroll Now	https://www.ambitenergy.com/rates-and-plans/green-energy	enter zip code	select electric service plans	select green plan	hit next	fill out information												11-09-2019	through Ambit energy for BG&E	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD5	Real Green Energy						1	5.89									24-month	24-month	No								Enroll Now	https://www.americanpowerandgas.com	select enroll now	enter zip code	select BG&E for electric provider	select real green energy and continue	fill out information												11-09-2019	through American Power and Gas	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD6	GreenGurantee12Plus						1	6.39						9.99			12-month	12-month	Yes	50							Enroll Now	https://www.chooseenergy.com/shop/checkout/residential/MD/21237/personal-info/?electricity=234141&eSlug=clearview-energy-md-residential-electricity&electricityUtilitySlug=baltimore-gas-electric-co-md-electricity&ref=DESKTOP	fill out information																11-09-2019	through choose energy- clearview energy for BG&E	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD7	ClearGreenGurantee12						1	6.99									12-month	12-month	Yes	50							Enroll Now	https://www.chooseenergy.com/shop/checkout/residential/MD/21237/personal-info/?electricity=237040&eSlug=clearview-energy-md-residential-electricity&electricityUtilitySlug=baltimore-gas-electric-co-md-electricity&ref=DESKTOP	fill out information																11-09-2019	through choose energy- clearview energy for BG&E	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD8	GreenValueAssurance6						1	7.49									Monthly	6-month	No								Enroll Now	https://www.chooseenergy.com/shop/plan-details/clearview-energy/baltimore-gas-electric-co-md-electricity/green-value-assurance6-195-16878/	fill out information																11-09-2019	through choose energy- clearview energy for BG&E	1
+1167	Baltimore Gas & Electric Co	MD	1167MD	1167MD9	Green Home Power Plan	1					0	7.19									12-month	12-months	Yes	150							Enroll Now	https://www.chooseenergy.com/shop/checkout/residential/MD/21201/personal-info/?electricity=236236&eSlug=constellation-md-residential-electricity&electricityUtilitySlug=baltimore-gas-electric-co-md-electricity&ref=DESKTOP	fill out information																11-09-2019	through choose energy- constellation for BG&E	1
+14006	Ohio Power Co	OH	14006OH	14006OH1	AllGreen	1					0		5-5.47			Fixed	1000	50-54.7	100		Monthly	Up to 24 months	Yes	50	Yes	Yes					Enroll Now	https://www.fes.com/content/fes/offers/enroll/res-enroll.html	fill out information																11-09-2019	First energy solutions	1
+4176	Connecticut Light & Power Co	CT	4176CT	4176CT1	Green Home Power Plan	1					0	8.99				No			100		24-month	24-month	Yes	50							Enroll Now	https://www.constellation.com/solutions/for-your-home/home-energy-options/renewable-energy.html	enter zip code	select green home power plan	enter information	continue													11-11-2019	for connecticut light and power, also known as eversource, through a third party service provider called constellation	1
+4176	Connecticut Light & Power Co	CT	4176CT	4176CT2	ClearGreenGurantee6						1	7.89									6-month	6-month	Yes	50							Enroll Now	https://www.clearviewenergy.com/new_enrollment?PlanNumber=2754	fill out information																11-11-2019	for connecticut light and power, also known as eversource, through a third party service provider called clearview	1
+4176	Connecticut Light & Power Co	CT	4176CT	4176CT3	ClearGreenGurantee9						1	8.39									9-month	9-month	Yes	50							Enroll Now	https://www.clearviewenergy.com/new_enrollment?PlanNumber=3205	fill out information																11-11-2019	for connecticut light and power, also known as eversource, through a third party service provider called clearview	1
+4176	Connecticut Light & Power Co	CT	4176CT	4176CT4	ClearGreenGurantee12						1	8.29									12-month	12-month	Yes	50							Enroll Now	https://www.clearviewenergy.com/new_enrollment?PlanNumber=3752	fill out information																11-11-2019	for connecticut light and power, also known as eversource, through a third party service provider called clearview	1
+4176	Connecticut Light & Power Co	CT	4176CT	4176CT5	Guranteed Renewable 12						1	10.49				No			100		12-month	12-month	No			Yes					Enroll Now	https://www.verdeenergy.com/get-rates/?UtilityID=138&ProductID=141362	fill out information	submit form															11-11-2019	for connecticut light and power, also known as eversource, through a third party service provider verde energy	1
+4176	Connecticut Light & Power Co	CT	4176CT	4176CT6	SimpleClean 12						1	10.59							100		12-month	12-month	Yes	50							Enroll Now	https://www.chooseenergy.com/shop/checkout-ct/residential/CT/06790/personal-info/?electricity=236417&eSlug=xoom-energy-ct-residential-electricity&electricityUtilitySlug=connecticut-light-power-ct-electricity&ref=DESKTOP&newCheckout=false	fill out information																11-11-2019	for connecticut light and power, also known as eversource, through a third party service provider xoom energy	1
+733	Appalachian Power Co	VA	733VA	733VA1	100% Renewable Energy Program						1	0.425				No			100		Monthly	No	No			Yes					Enroll Now	https://www.appalachianpower.com/account/bills/manage/RenewableChoices/VA/SignUp.aspx	login																11-14-2019	appalachian power	1
+56212	Ambit Energy Holdings, LLC	NY	56212NY	56212NY1	Ambit Green Northeast-Variable	1					0	9.1				No			100		Monthly	No	No		Yes	No					Enroll Now	https://www.ambitenergy.com/rates-and-plans/green-energy	enter zip code	select green plan	fill out information														11-16-2019	Ambit Energy	1
+15248	Portland General Electric Co	OR	15248OR	15248OR1	Green Source	0.69	0.24	0.04	0.01	0.02	0	13.4				No			100		Monthly	No	No		Yes						Enroll Now	https://www.portlandgeneral.com/residential/power-choices/renewable-power/green-source	select get green source	sign in or sign up															11-16-2019	Portland General Electric	1
+15248	Portland General Electric Co	OR	15248OR	15248OR2	Clean Wind	1					0	12.9				Any	200	2.5			Monthly	No	No		Yes						Enroll Now	https://www.portlandgeneral.com/residential/power-choices/renewable-power/clean-wind	select get clean wind	sign in or sign up															11-16-2019	Portland General Electric 	1
+14063	Oklahoma Gas & Electric Co	AR	14063AR	14063AR1	OG&E Wind Power	1					0		.35-.45			No			25;50;100		12-month	12-month									Enroll Now	https://www.oge.com/wps/portal/oge/my-account/signin/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDVCAo4FTkJGTsYGBu7OJfjghBVEY0sgKgfqjCCkpyI0wSHdUVAQAX2fGdw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/	sign in or sign up																11-16-2019	OG&E	1
+14063	Oklahoma Gas & Electric Co	OK	14063OK	14063OK2	OG&E Wind Power	1					0					No			25;50;100		12-month	12-month									Enroll Now	https://www.oge.com/wps/portal/oge/my-account/signin/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDVCAo4FTkJGTsYGBu7OJfjghBVEY0sgKgfqjCCkpyI0wSHdUVAQAX2fGdw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/	sign in or sign up																11-16-2019	OG&E	1
+15470	Duke Energy Indiana, LLC	IN	15470IN	15470IN1	GoGreen Indiana 						1	0.9				Min 2	100	0.9			Monthly	No	No		Yes						Enroll Now	https://www.duke-energy.com/home/products/renewable-energy/gogreen-energy/enroll-online-indiana	fill out information																11-16-2019	Duke Energy Indiana	1
+18454	Tampa Electric Co	FL	18454FL	18454FL1	Sun Select		1				0	6.3				No			25;50;100		Monthly	No	No		No						Enroll Now	https://account.tecoenergy.com/Account/Login?ReturnUrl=%2FSolar%2FSunSelectBillEstimator	log in or sign up																11-17-2019	Tampa Electric	1
+55	City of Aberdeen - (MS)	MS	55MS	55MS1							1																																								0
+155	Agralite Electric Coop	MN	155MN	155MN1							1																																								0
+162	Aiken Electric Coop Inc	GA	162GA	162GA1							1																																								0
+162	Aiken Electric Coop Inc	SC	162SC	162SC1							1																																								0
+195	Alabama Power Co	FL	195FL	195FL1							1																																								0
+195	Alabama Power Co	GA	195GA	195GA1							1																																								0
+195	Alabama Power Co	MS	195MS	195MS1							1																																								0
+207	City of Alameda	CA	207CA	207CA1							1																																								0
+241	Albertville Municipal Utilities Board	AL	241AL	241AL1							1																																								0
+276	Alcorn County Elec Power Assn	MS	276MS	276MS1							1																																								0
+276	Alcorn County Elec Power Assn	TN	276TN	276TN1							1																																								0
+296	Alfalfa Electric Coop, Inc	KS	296KS	296KS1							1																																								0
+296	Alfalfa Electric Coop, Inc	OK	296OK	296OK1							1																																								0
+329	Allamakee-Clayton El Coop, Inc	IA	329IA	329IA1							1																																								0
+407	Altamaha Electric Member Corp	GA	407GA	407GA1							1																																								0
+416	City of Altus - (OK)	OK	416OK	416OK1							1																																								0
+562	Amicalola Electric Member Corp	GA	562GA	562GA1							1																																								0
+571	City of Amory	MS	571MS	571MS1							1																																								0
+577	City of Alcoa Utilities	TN	577TN	577TN1							1																																								0
+590	City of Anaheim - (CA)	CA	590CA	590CA1							1																																								0
+689	Connexus Energy	MN	689MN	689MN1							1																																								0
+727	Appalachian Electric Coop	TN	727TN	727TN1							1																																								0
+733	Appalachian Power Co	KY	733KY	733KY1							1																																								0
+733	Appalachian Power Co	OH	733OH	733OH1							1																																								0
+733	Appalachian Power Co	TN	733TN	733TN1							1																																								0
+733	Appalachian Power Co	WV	733WV	733WV1							1																																								0
+750	Arab Electric Coop Inc	AL	750AL	750AL1							1																																								0
+803	Arizona Public Service Co	CA	803CA	803CA1							1																																								0
+887	Arrowhead Electric Coop, Inc	MN	887MN	887MN1							1																																								0
+907	City of Ashland - (OR)	OR	907OR	907OR1							1																																								0
+944	City of Athens - (AL)	AL	944AL	944AL1							1																																								0
+944	City of Athens - (AL)	TN	944TN	944TN1							1																																								0
+947	Athens Utility Board	TN	947TN	947TN1							1																																								0
+1015	Austin Energy	TX	1015TX	1015TX1							1																																								0
+1149	Baldwin County El Member Corp	AL	1149AL	1149AL1							1																																								0
+1251	Barron Electric Coop	WI	1251WI	1251WI1							1																																								0
+1283	Bartholomew County Rural E M C	IN	1283IN	1283IN1							1																																								0
+1367	Bayfield Electric Coop, Inc	MN	1367MN	1367MN1							1																																								0
+1367	Bayfield Electric Coop, Inc	WI	1367WI	1367WI1							1																																								0
+1529	Beltrami Electric Coop, Inc	MN	1529MN	1529MN1							1																																								0
+1578	Benton County	KY	1578KY	1578KY1							1																																								0
+1578	Benton County	TN	1578TN	1578TN1							1																																								0
+1579	PUD No 1 of Benton County	WA	1579WA	1579WA1							1																																								0
+1582	Benton KY (City of)	KY	1582KY	1582KY1							1																																								0
+1613	Berkeley Electric Coop Inc	SC	1613SC	1613SC1							1																																								0
+1640	City of Bessemer Utilities	AL	1640AL	1640AL1							1																																								0
+1708	Big Sandy Rural Elec Coop Corp	KY	1708KY	1708KY1							1																																								0
+1736	Blachly-Lane County Coop El Assn	OR	1736OR	1736OR1							1																																								0
+1763	Black River Electric Coop, Inc - (SC)	SC	1763SC	1763SC1							1																																								0
+1776	City of Black River Falls	WI	1776WI	1776WI1							1																																								0
+1884	BENCO Electric Cooperative	MN	1884MN	1884MN1							1																																								0
+1886	Blue Grass Energy Coop Corp	KY	1886KY	1886KY1							1																																								0
+1886	Blue Grass Energy Coop Corp	OH	1886OH	1886OH1							1																																								0
+1890	Blue Ridge Electric Coop Inc - (SC)	SC	1890SC	1890SC1							1																																								0
+1891	Blue Ridge Mountain EMC - (GA)	GA	1891GA	1891GA1							1																																								0
+1936	Bolivar Energy Authority	TN	1936TN	1936TN1							1																																								0
+2001	Boone Electric Coop	MO	2001MO	2001MO1							1																																								0
+2054	City of Bowling Green - (OH)	OH	2054OH	2054OH1							1																																								0
+2056	City of Bowling Green - (KY)	KY	2056KY	2056KY1							1																																								0
+2144	Town of Braintree - (MA)	MA	2144MA	2144MA1							1																																								0
+2247	City of Bristol - (TN)	TN	2247TN	2247TN1							1																																								0
+2247	City of Bristol - (TN)	VA	2247VA	2247VA1							1																																								0
+2248	Bristol Virginia Utilities	TN	2248TN	2248TN1							1																																								0
+2248	Bristol Virginia Utilities	VA	2248VA	2248VA1							1																																								0
+2316	Brown County Rural Elec Assn	MN	2316MN	2316MN1							1																																								0
+2411	City of Brownsville	TN	2411TN	2411TN1							1																																								0
+2652	Butler County Rural Elec Coop - (IA)	IA	2652IA	2652IA1							1																																								0
+2849	Central Electric Power Assn - (MS)	MS	2849MS	2849MS1							1																																								0
+2903	Canoochee Electric Member Corp	GA	2903GA	2903GA1							1																																								0
+2911	Canadian Valley Elec Coop, Inc	OK	2911OK	2911OK1							1																																								0
+2955	Canby Utility Board	OR	2955OR	2955OR1							1																																								0
+2960	Caney Fork Electric Coop, Inc	TN	2960TN	2960TN1							1																																								0
+2998	Carbon Power & Light, Inc	WY	2998WY	2998WY1							1																																								0
+3046	Duke Energy Progress - (NC)	NC	3046NC	3046NC1							1																																								0
+3046	Duke Energy Progress - (NC)	SC	3046SC	3046SC1							1																																								0
+3075	Carroll County - (TN)	TN	3075TN	3075TN1							1																																								0
+3081	Carroll Electric Member Corp - (GA)	GA	3081GA	3081GA1							1																																								0
+3203	Cedar Falls Utilities	IA	3203IA	3203IA1							1																																								0
+3208	Cedarburg Light & Water Comm	WI	3208WI	3208WI1							1																																								0
+3222	Central Alabama Electric Coop	AL	3222AL	3222AL1							1																																								0
+3226	Central Rural Electric Cooperative, Inc	OK	3226OK	3226OK1							1																																								0
+3240	Central Electric Coop Inc - (OR)	OR	3240OR	3240OR1							1																																								0
+3248	Central Georgia El Member Corp	GA	3248GA	3248GA1							1																																								0
+3314	Chariton Valley Elec Coop, Inc	IA	3314IA	3314IA1							1																																								0
+3390	Caddo Electric Coop Inc	OK	3390OK	3390OK1							1																																								0
+3408	City of Chattanooga - (TN)	GA	3408GA	3408GA1							1																																								0
+3408	City of Chattanooga - (TN)	TN	3408TN	3408TN1							1																																								0
+3413	PUD No 1 of Chelan County	WA	3413WA	3413WA1							1																																								0
+3426	Cherokee Electric Coop	AL	3426AL	3426AL1							1																																								0
+3475	Chickamauga GA (City of)	GA	3475GA	3475GA1							1																																								0
+3478	Cimarron Electric Coop	OK	3478OK	3478OK1							1																																								0
+3498	Chippewa Valley Electric Coop	WI	3498WI	3498WI1							1																																								0
+3502	Choctawhatche Elec Coop, Inc	AL	3502AL	3502AL1							1																																								0
+3502	Choctawhatche Elec Coop, Inc	FL	3502FL	3502FL1							1																																								0
+3527	Choctaw Electric Coop Inc	OK	3527OK	3527OK1							1																																								0
+3542	Duke Energy Ohio Inc	IN	3542IN	3542IN1							1																																								0
+3542	Duke Energy Ohio Inc	KY	3542KY	3542KY1							1																																								0
+3542	Duke Energy Ohio Inc	OH	3542OH	3542OH1							1																																								0
+3644	PUD No 1 of Clallam County	WA	3644WA	3644WA1							1																																								0
+3660	PUD No 1 of Clark County - (WA)	WA	3660WA	3660WA1							1																																								0
+3687	Clark Energy Coop Inc - (KY)	KY	3687KY	3687KY1							1																																								0
+3701	Clark Electric Coop - (WI)	WI	3701WI	3701WI1							1																																								0
+3704	City of Clarksville - (TN)	TN	3704TN	3704TN1							1																																								0
+3739	Clearwater Power Company	ID	3739ID	3739ID1							1																																								0
+3739	Clearwater Power Company	WA	3739WA	3739WA1							1																																								0
+3758	City of Cleveland - (TN)	TN	3758TN	3758TN1							1																																								0
+3764	Clearwater-Polk Elec Coop Inc	MN	3764MN	3764MN1							1																																								0
+3812	City of Clinton - (TN)	TN	3812TN	3812TN1							1																																								0
+3843	Coastal Electric Member Corp	GA	3843GA	3843GA1							1																																								0
+3844	Coastal Electric Coop, Inc	SC	3844SC	3844SC1							1																																								0
+3855	Columbia Power System	TN	3855TN	3855TN1							1																																								0
+3916	Cobb Electric Membership Corp	GA	3916GA	3916GA1							1																																								0
+4068	City of Columbus - (MS)	MS	4068MS	4068MS1							1																																								0
+4071	Columbus Electric Coop, Inc	NM	4071NM	4071NM1							1																																								0
+4073	City of Columbus - (WI)	WI	4073WI	4073WI1							1																																								0
+4254	Consumers Energy Co	OH	4254OH	4254OH1							1																																								0
+4265	Continental Divide El Coop Inc	NM	4265NM	4265NM1							1																																								0
+4294	City of Cookeville - (TN)	TN	4294TN	4294TN1							1																																								0
+4346	Cooperative L&P Assn Lake County	MN	4346MN	4346MN1							1																																								0
+4401	Cotton Electric Coop, Inc	OK	4401OK	4401OK1							1																																								0
+4430	Covington Electric Coop, Inc	AL	4430AL	4430AL1							1																																								0
+4432	Coweta-Fayette El Member Corp	GA	4432GA	4432GA1							1																																								0
+4437	City of Covington - (TN)	TN	4437TN	4437TN1							1																																								0
+4442	PUD No 1 of Cowlitz County	WA	4442WA	4442WA1							1																																								0
+4577	Crow Wing Cooperative Power & Light Comp	MN	4577MN	4577MN1							1																																								0
+4617	Cullman Power Board	AL	4617AL	4617AL1							1																																								0
+4618	Cullman Electric Coop, Inc	AL	4618AL	4618AL1							1																																								0
+4622	Cumberland Valley Electric, Inc.	KY	4622KY	4622KY1							1																																								0
+4624	Cumberland Elec Member Corp	KY	4624KY	4624KY1							1																																								0
+4624	Cumberland Elec Member Corp	TN	4624TN	4624TN1							1																																								0
+4675	Cuivre River Electric Coop Inc	MO	4675MO	4675MO1							1																																								0
+4683	City of Cuyahoga Falls - (OH)	OH	4683OH	4683OH1							1																																								0
+4743	Consumers Power, Inc	OR	4743OR	4743OR1							1																																								0
+4920	City of Dayton - (TN)	TN	4920TN	4920TN1							1																																								0
+4958	Decatur Utilities	AL	4958AL	4958AL1							1																																								0
+5086	Delta Montrose Electric Assn	CO	5086CO	5086CO1							1																																								0
+5148	City of Dickson	TN	5148TN	5148TN1							1																																								0
+5204	Dixie Electric Coop	AL	5204AL	5204AL1							1																																								0
+5327	Douglas Electric Coop - (OR)	OR	5327OR	5327OR1							1																																								0
+5399	Duck River Elec Member Corp	TN	5399TN	5399TN1							1																																								0
+5416	Duke Energy Carolinas, LLC	GA	5416GA	5416GA1							1																																								0
+5416	Duke Energy Carolinas, LLC	NC	5416NC	5416NC1							1																																								0
+5416	Duke Energy Carolinas, LLC	SC	5416SC	5416SC1							1																																								0
+5416	Duke Energy Carolinas, LLC	VA	5416VA	5416VA1							1																																								0
+5417	Dunn County Electric Coop	WI	5417WI	5417WI1							1																																								0
+5509	City of Dyersburg	TN	5509TN	5509TN1							1																																								0
+5551	Eagle River Light & Water Dept	WI	5551WI	5551WI1							1																																								0
+5574	East Central Energy	MN	5574MN	5574MN1							1																																								0
+5578	East Mississippi Elec Pwr Assn	MS	5578MS	5578MS1							1																																								0
+5598	East Central Oklahoma Elec Coop Inc	OK	5598OK	5598OK1							1																																								0
+5632	Eau Claire Electric Coop	WI	5632WI	5632WI1							1																																								0
+5644	Edisto Electric Coop, Inc	SC	5644SC	5644SC1							1																																								0
+5661	City of Edmond - (OK)	OK	5661OK	5661OK1							1																																								0
+5701	El Paso Electric Co	NM	5701NM	5701NM1							1																																								0
+5701	El Paso Electric Co	TX	5701TX	5701TX1							1																																								0
+5763	City of Elizabethton - (TN)	TN	5763TN	5763TN1							1																																								0
+5862	Empire Electric Assn, Inc	CO	5862CO	5862CO1							1																																								0
+5905	Excelsior Electric Member Corp	GA	5905GA	5905GA1							1																																								0
+5929	Fairfield Electric Coop, Inc	SC	5929SC	5929SC1							1																																								0
+5961	Town of Erwin - (TN)	TN	5961TN	5961TN1							1																																								0
+5964	Escambia River Elec Coop, Inc	AL	5964AL	5964AL1							1																																								0
+5964	Escambia River Elec Coop, Inc	FL	5964FL	5964FL1							1																																								0
+5997	Town of Estes Park	CO	5997CO	5997CO1							1																																								0
+6008	City of Etowah	TN	6008TN	6008TN1							1																																								0
+6022	City of Eugene - (OR)	OR	6022OR	6022OR1							1																																								0
+6043	City of Evansville	WI	6043WI	6043WI1							1																																								0
+6112	Farmers Electric Coop, Inc - (IA)	IA	6112IA	6112IA1							1																																								0
+6168	Farmers Electric Coop Inc	IA	6168IA	6168IA1							1																																								0
+6169	Fall River Rural Elec Coop Inc	ID	6169ID	6169ID1							1																																								0
+6194	Farmers Rural Electric Coop Corp - (KY)	KY	6194KY	6194KY1							1																																								0
+6234	City of Fayetteville	AL	6234AL	6234AL1							1																																								0
+6234	City of Fayetteville	TN	6234TN	6234TN1							1																																								0
+6258	Federated Rural Electric Assn	MN	6258MN	6258MN1							1																																								0
+6395	Flathead Electric Coop Inc	MT	6395MT	6395MT1							1																																								0
+6411	Flint Electric Membership Corp	GA	6411GA	6411GA1							1																																								0
+6422	City of Florence - (AL)	AL	6422AL	6422AL1							1																																								0
+6422	City of Florence - (AL)	TN	6422TN	6422TN1							1																																								0
+6424	Florence Utility Commission	WI	6424WI	6424WI1							1																																								0
+6442	Fleming-Mason Energy Coop Inc	KY	6442KY	6442KY1							1																																								0
+6455	Duke Energy Florida, LLC	FL	6455FL	6455FL1							1																																								0
+6604	City of Fort Collins - (CO)	CO	6604CO	6604CO1							1																																								0
+6608	Fort Loudoun Electric Coop	TN	6608TN	6608TN1							1																																								0
+6612	Fort Payne Improvement Authority	AL	6612AL	6612AL1							1																																								0
+6641	4-County Electric Power Assn	AL	6641AL	6641AL1							1																																								0
+6641	4-County Electric Power Assn	MS	6641MS	6641MS1							1																																								0
+6717	Franklin Electric Coop - (AL)	AL	6717AL	6717AL1							1																																								0
+6718	City of Franklin - (KY)	KY	6718KY	6718KY1							1																																								0
+6782	Freeborn-Mower Coop Services	MN	6782MN	6782MN1							1																																								0
+6840	Fulton KY (City of)	KY	6840KY	6840KY1							1																																								0
+6840	Fulton KY (City of)	TN	6840TN	6840TN1							1																																								0
+6923	City of Gallatin - (TN)	TN	6923TN	6923TN1							1																																								0
+6957	Garkane Energy Coop, Inc	AZ	6957AZ	6957AZ1							1																																								0
+6957	Garkane Energy Coop, Inc	UT	6957UT	6957UT1							1																																								0
+7090	GreyStone Power Corporation	GA	7090GA	7090GA1							1																																								0
+7140	Georgia Power Co	AL	7140AL	7140AL1							1																																								0
+7140	Georgia Power Co	SC	7140SC	7140SC1							1																																								0
+7140	Georgia Power Co	TN	7140TN	7140TN1							1																																								0
+7174	Gibson Electric Members Corp	KY	7174KY	7174KY1							1																																								0
+7174	Gibson Electric Members Corp	TN	7174TN	7174TN1							1																																								0
+7270	City of Glasgow - (KY)	KY	7270KY	7270KY1							1																																								0
+7292	Glencoe Light & Power Comm	MN	7292MN	7292MN1							1																																								0
+7353	Golden Valley Elec Assn Inc	AK	7353AK	7353AK1							1																																								0
+7450	Grady Electric Membership Corp	GA	7450GA	7450GA1							1																																								0
+7460	Goodhue County Coop Elec Assn	MN	7460MN	7460MN1							1																																								0
+7548	PUD No 1 of Grays Harbor County	WA	7548WA	7548WA1							1																																								0
+7558	Grayson Rural Electric Coop Corp	KY	7558KY	7558KY1							1																																								0
+7601	Green Mountain Power Corp	VT	7601VT	7601VT1							1																																								0
+7625	City of Greeneville - (TN)	TN	7625TN	7625TN1							1																																								0
+7785	Gulf Coast Electric Coop, Inc	FL	7785FL	7785FL1							1																																								0
+7787	Gunnison County Elec Assn.	CO	7787CO	7787CO1							1																																								0
+7826	City of Gunnison - (CO)	CO	7826CO	7826CO1							1																																								0
+7827	Guntersville Electric Board	AL	7827AL	7827AL1							1																																								0
+7887	Habersham Electric Membership Corp	GA	7887GA	7887GA1							1																																								0
+8147	City of Harriman - (TN)	TN	8147TN	8147TN1							1																																								0
+8210	Hart Electric Member Corp	GA	8210GA	8210GA1							1																																								0
+8226	City of Hartselle	AL	8226AL	8226AL1							1																																								0
+8283	Harrison County Rrl Elec Coop	IA	8283IA	8283IA1							1																																								0
+8287	Hawaii Electric Light Co Inc	HI	8287HI	8287HI1							1																																								0
+8319	Heartland Power Coop	IA	8319IA	8319IA1							1																																								0
+8466	Henry County Rural E M C	IN	8466IN	8466IN1							1																																								0
+8548	Hickman KY (City of)	KY	8548KY	8548KY1							1																																								0
+8570	Highline Electric Assn	CO	8570CO	8570CO1							1																																								0
+8570	Highline Electric Assn	NE	8570NE	8570NE1							1																																								0
+8748	City of Holly Springs	MS	8748MS	8748MS1							1																																								0
+8764	Holston Electric Coop, Inc	TN	8764TN	8764TN1							1																																								0
+8773	Holy Cross Electric Assn, Inc	CO	8773CO	8773CO1							1																																								0
+8786	Horry Electric Coop Inc	SC	8786SC	8786SC1							1																																								0
+8846	City of Hopkinsville	KY	8846KY	8846KY1							1																																								0
+8934	Howell-Oregon Elec Coop, Inc	MO	8934MO	8934MO1							1																																								0
+9023	City of Humboldt	TN	9023TN	9023TN1							1																																								0
+9094	City of Huntsville - (AL)	AL	9094AL	9094AL1							1																																								0
+9191	Idaho Power Co	ID	9191ID	9191ID1							1																																								0
+9191	Idaho Power Co	OR	9191OR	9191OR1							1																																								0
+9273	Indianapolis Power & Light Co	IN	9273IN	9273IN1							1																																								0
+9292	Inter County Energy Coop Corp	KY	9292KY	9292KY1							1																																								0
+9331	Intercounty Electric Coop Assn	MO	9331MO	9331MO1							1																																								0
+9417	Interstate Power and Light Co	IA	9417IA	9417IA1							1																																								0
+9417	Interstate Power and Light Co	IL	9417IL	9417IL1							1																																								0
+9417	Interstate Power and Light Co	MN	9417MN	9417MN1							1																																								0
+9417	Interstate Power and Light Co	WI	9417WI	9417WI1							1																																								0
+9431	Irwin Electric Membership Corp	GA	9431GA	9431GA1							1																																								0
+9475	Itasca-Mantrap Co-op Electrical Assn	MN	9475MN	9475MN1							1																																								0
+9575	Jackson Energy Coop Corp - (KY)	KY	9575KY	9575KY1							1																																								0
+9601	Jackson Electric Member Corp - (GA)	GA	9601GA	9601GA1							1																																								0
+9605	Jackson Purchase Energy Corporation	IL	9605IL	9605IL1							1																																								0
+9612	City of Jackson - (TN)	TN	9612TN	9612TN1							1																																								0
+9689	Jefferson Electric Member Corp	GA	9689GA	9689GA1							1																																								0
+9690	Jefferson Utilities	WI	9690WI	9690WI1							1																																								0
+9697	Jellico Electric System	TN	9697TN	9697TN1							1																																								0
+9739	Joe Wheeler Elec Member Corp	AL	9739AL	9739AL1							1																																								0
+9750	Jo-Carroll Energy, Inc	IA	9750IA	9750IA1							1																																								0
+9750	Jo-Carroll Energy, Inc	IL	9750IL	9750IL1							1																																								0
+9777	Johnson City - (TN)	TN	9777TN	9777TN1							1																																								0
+9922	Jump River Electric Coop Inc	WI	9922WI	9922WI1							1																																								0
+9936	Juneau Utility Commission	WI	9936WI	9936WI1							1																																								0
+9991	Kandiyohi Power Coop	MN	9991MN	9991MN1							1																																								0
+9999	Kankakee Valley Rural E M C	IN	9999IN	9999IN1							1																																								0
+10012	Kay Electric Coop	OK	10012OK	10012OK1							1																																								0
+10056	City of Kaukauna	WI	10056WI	10056WI1							1																																								0
+10170	Kiamichi Electric Coop, Inc	OK	10170OK	10170OK1							1																																								0
+10171	Kentucky Utilities Co	IL	10171IL	10171IL1							1																																								0
+10171	Kentucky Utilities Co	IN	10171IN	10171IN1							1																																								0
+10171	Kentucky Utilities Co	KY	10171KY	10171KY1							1																																								0
+10171	Kentucky Utilities Co	OH	10171OH	10171OH1							1																																								0
+10171	Kentucky Utilities Co	TN	10171TN	10171TN1							1																																								0
+10171	Kentucky Utilities Co	VA	10171VA	10171VA1							1																																								0
+10375	Kiwash Electric Coop Inc	OK	10375OK	10375OK1							1																																								0
+10421	Knoxville Utilities Board	TN	10421TN	10421TN1							1																																								0
+10448	Kosciusko County Rural E M C	IN	10448IN	10448IN1							1																																								0
+10539	La Plata Electric Assn, Inc	CO	10539CO	10539CO1							1																																								0
+10562	Lagrange County Rural E M C	IN	10562IN	10562IN1							1																																								0
+10579	City of LaFollette	TN	10579TN	10579TN1							1																																								0
+10624	Southern Rivers Energy	GA	10624GA	10624GA1							1																																								0
+10629	Lakota ND (City of)	ND	10629ND	10629ND1							1																																								0
+10697	Lake Country Power	MN	10697MN	10697MN1							1																																								0
+10704	City of Lansing - (MI)	MI	10704MI	10704MI1							1																																								0
+10768	Laurens Electric Coop, Inc	SC	10768SC	10768SC1							1																																								0
+10799	City of Lawrenceburg	TN	10799TN	10799TN1							1																																								0
+10906	City of Lenoir - (TN)	TN	10906TN	10906TN1							1																																								0
+10944	PUD No 1 of Lewis County	WA	10944WA	10944WA1							1																																								0
+10960	City of Lewisburg - (TN)	TN	10960TN	10960TN1							1																																								0
+10968	City of Lexington - (TN)	TN	10968TN	10968TN1							1																																								0
+11011	Licking Valley Rural E C C	KY	11011KY	11011KY1							1																																								0
+11125	Lodi Municipal Light & Water Utilities	WI	11125WI	11125WI1							1																																								0
+11187	City of Longmont	CO	11187CO	11187CO1							1																																								0
+11222	Loudon Utilities Board	TN	11222TN	11222TN1							1																																								0
+11247	Louisville Electric System	MS	11247MS	11247MS1							1																																								0
+11249	Louisville Gas & Electric Co	IN	11249IN	11249IN1							1																																								0
+11249	Louisville Gas & Electric Co	KY	11249KY	11249KY1							1																																								0
+11251	Loup River Public Power Dist	NE	11251NE	11251NE1							1																																								0
+11256	City of Loveland - (CO)	CO	11256CO	11256CO1							1																																								0
+11273	Lower Valley Energy Inc	ID	11273ID	11273ID1							1																																								0
+11273	Lower Valley Energy Inc	WY	11273WY	11273WY1							1																																								0
+11298	Lyon Rural Electric Coop	IA	11298IA	11298IA1							1																																								0
+11355	Lynches River Elec Coop, Inc	SC	11355SC	11355SC1							1																																								0
+11458	Macon MS (City of)	MS	11458MS	11458MS1							1																																								0
+11479	Madison Gas & Electric Co	WI	11479WI	11479WI1							1																																								0
+11693	Marlboro Electric Coop, Inc	SC	11693SC	11693SC1							1																																								0
+11714	Marshall-De Kalb Electric Coop	AL	11714AL	11714AL1							1																																								0
+11789	Maryville Utilities	TN	11789TN	11789TN1							1																																								0
+11843	Maui Electric Co Ltd	HI	11843HI	11843HI1							1																																								0
+11871	City of Mayfield Plant Board	KY	11871KY	11871KY1							1																																								0
+12186	McMinnville Electric System	TN	12186TN	12186TN1							1																																								0
+12265	City of Medford - (WI)	WI	12265WI	12265WI1							1																																								0
+12293	City of Memphis - (TN)	AR	12293AR	12293AR1							1																																								0
+12293	City of Memphis - (TN)	MS	12293MS	12293MS1							1																																								0
+12293	City of Memphis - (TN)	TN	12293TN	12293TN1							1																																								0
+12298	City of Menasha - (WI)	WI	12298WI	12298WI1							1																																								0
+12301	Nodak Electric Coop Inc	ND	12301ND	12301ND1							1																																								0
+12330	Meriwether Lewis Electric Coop	TN	12330TN	12330TN1							1																																								0
+12341	MidAmerican Energy Co	IA	12341IA	12341IA1							1																																								0
+12341	MidAmerican Energy Co	IL	12341IL	12341IL1							1																																								0
+12341	MidAmerican Energy Co	NE	12341NE	12341NE1							1																																								0
+12341	MidAmerican Energy Co	SD	12341SD	12341SD1							1																																								0
+12439	Midstate Electric Coop, Inc	OR	12439OR	12439OR1							1																																								0
+12462	Mid-Carolina Electric Coop Inc	SC	12462SC	12462SC1							1																																								0
+12463	Mid Yellowstone Electric Coop Inc	MT	12463MT	12463MT1							1																																								0
+12470	Middle Tennessee E M C	TN	12470TN	12470TN1							1																																								0
+12472	Middle Georgia El Member Corp	GA	12472GA	12472GA1							1																																								0
+12532	City of Milan	TN	12532TN	12532TN1							1																																								0
+12647	ALLETE, Inc.	MN	12647MN	12647MN1							1																																								0
+12651	Minnesota Valley Electric Coop	MN	12651MN	12651MN1							1																																								0
+12706	Mitchell Electric Member Corp	GA	12706GA	12706GA1							1																																								0
+12825	NorthWestern Energy LLC - (MT)	MT	12825MT	12825MT1							1																																								0
+12825	NorthWestern Energy LLC - (MT)	SD	12825SD	12825SD1							1																																								0
+12860	Morgan County Rural Elec Assn	CO	12860CO	12860CO1							1																																								0
+12866	Moon Lake Electric Assn Inc	CO	12866CO	12866CO1							1																																								0
+12866	Moon Lake Electric Assn Inc	UT	12866UT	12866UT1							1																																								0
+12988	City of Morristown - (TN)	TN	12988TN	12988TN1							1																																								0
+13027	Mountain Electric Coop, Inc	NC	13027NC	13027NC1							1																																								0
+13027	Mountain Electric Coop, Inc	TN	13027TN	13027TN1							1																																								0
+13036	Village of Mt. Horeb - (WI)	WI	13036WI	13036WI1							1																																								0
+13039	City of Mt Pleasant - (TN)	TN	13039TN	13039TN1							1																																								0
+13050	Mountain Parks Electric, Inc	CO	13050CO	13050CO1							1																																								0
+13058	Mountain View Elec Assn, Inc	CO	13058CO	13058CO1							1																																								0
+13073	Mt Wheeler Power, Inc	NV	13073NV	13073NV1							1																																								0
+13119	City of Murfreesboro	TN	13119TN	13119TN1							1																																								0
+13138	City of Murray - (KY)	KY	13138KY	13138KY1							1																																								0
+13144	City of Muscle Shoals	AL	13144AL	13144AL1							1																																								0
+13145	Muscoda Light & Water Utility	WI	13145WI	13145WI1							1																																								0
+13208	City of Naperville - (IL)	IL	13208IL	13208IL1							1																																								0
+13216	Nashville Electric Service	TN	13216TN	13216TN1							1																																								0
+13227	Natchez Trace Elec Power Assn	MS	13227MS	13227MS1							1																																								0
+13407	Nevada Power Co	AZ	13407AZ	13407AZ1							1																																								0
+13412	City of New Albany - (MS)	MS	13412MS	13412MS1							1																																								0
+13437	Newbern TN (City of)	TN	13437TN	13437TN1							1																																								0
+13438	New Glarus Municipal Light & Water WKS	WI	13438WI	13438WI1							1																																								0
+13448	City of New Holstein - (WI)	WI	13448WI	13448WI1							1																																								0
+13467	New London Electric&Water Util	WI	13467WI	13467WI1							1																																								0
+13481	City of New Richmond	WI	13481WI	13481WI1							1																																								0
+13550	City of Newport	TN	13550TN	13550TN1							1																																								0
+13651	Nolin Rural Electric Coop Corp	KY	13651KY	13651KY1							1																																								0
+13669	North Alabama Electric Coop	AL	13669AL	13669AL1							1																																								0
+13669	North Alabama Electric Coop	TN	13669TN	13669TN1							1																																								0
+13675	Nishnabotna Valley R E C	IA	13675IA	13675IA1							1																																								0
+13684	Nobles Cooperative Electric	MN	13684MN	13684MN1							1																																								0
+13694	North Central Elec Coop, Inc	ND	13694ND	13694ND1							1																																								0
+13700	North Itasca Electric Coop Inc	MN	13700MN	13700MN1							1																																								0
+13716	North Georgia Elec Member Corp	GA	13716GA	13716GA1							1																																								0
+13716	North Georgia Elec Member Corp	TN	13716TN	13716TN1							1																																								0
+13731	North Star Electric Coop, Inc	MN	13731MN	13731MN1							1																																								0
+13735	Northcentral Mississippi E P A	MS	13735MS	13735MS1							1																																								0
+13735	Northcentral Mississippi E P A	TN	13735TN	13735TN1							1																																								0
+13756	Northern Indiana Pub Serv Co	IL	13756IL	13756IL1							1																																								0
+13756	Northern Indiana Pub Serv Co	IN	13756IN	13756IN1							1																																								0
+13756	Northern Indiana Pub Serv Co	MI	13756MI	13756MI1							1																																								0
+13780	Northern States Power Co	MI	13780MI	13780MI1							1																																								0
+13780	Northern States Power Co	MN	13780MN	13780MN1							1																																								0
+13781	Northern States Power Co - Minnesota	ND	13781ND	13781ND1							1																																								0
+13781	Northern States Power Co - Minnesota	SD	13781SD	13781SD1							1																																								0
+13781	Northern States Power Co - Minnesota	WI	13781WI	13781WI1							1																																								0
+13788	Northern Wasco County PUD	OR	13788OR	13788OR1							1																																								0
+13807	Northwestern Electric Coop Inc - (OK)	OK	13807OK	13807OK1							1																																								0
+13809	NorthWestern Energy - (SD)	MT	13809MT	13809MT1							1																																								0
+13809	NorthWestern Energy - (SD)	SD	13809SD	13809SD1							1																																								0
+13838	Northfork Electric Coop, Inc	OK	13838OK	13838OK1							1																																								0
+13933	City of Oak Ridge	TN	13933TN	13933TN1							1																																								0
+13934	Ocmulgee Electric Member Corp	GA	13934GA	13934GA1							1																																								0
+13936	Oakdale Electric Coop	WI	13936WI	13936WI1							1																																								0
+13962	Oconee Electric Member Corp	GA	13962GA	13962GA1							1																																								0
+13963	Oconomowoc Utilities	WI	13963WI	13963WI1							1																																								0
+13965	Oconto Falls Water & Light Commission	WI	13965WI	13965WI1							1																																								0
+14062	Oklahoma Electric Coop Inc	OK	14062OK	14062OK1							1																																								0
+14063	Oklahoma Gas & Electric Co	KS	14063KS	14063KS1							1																																								0
+14063	Oklahoma Gas & Electric Co	OK	14063OK	14063OK1							1																																								0
+14078	City of Okolona	MS	14078MS	14078MS1							1																																								0
+14109	Oregon Trail El Cons Coop, Inc	OR	14109OR	14109OR1							1																																								0
+14127	Omaha Public Power District	IA	14127IA	14127IA1							1																																								0
+14127	Omaha Public Power District	NE	14127NE	14127NE1							1																																								0
+14170	Orcas Power & Light Coop	WA	14170WA	14170WA1							1																																								0
+14175	Tri-County Electric Coop, Inc	SC	14175SC	14175SC1							1																																								0
+14178	P K M Electric Coop, Inc	MN	14178MN	14178MN1							1																																								0
+14232	Otter Tail Power Co	MN	14232MN	14232MN1							1																																								0
+14232	Otter Tail Power Co	ND	14232ND	14232ND1							1																																								0
+14232	Otter Tail Power Co	SD	14232SD	14232SD1							1																																								0
+14251	Owen Electric Coop Inc	IN	14251IN	14251IN1							1																																								0
+14251	Owen Electric Coop Inc	KY	14251KY	14251KY1							1																																								0
+14275	City of Oxford - (MS)	MS	14275MS	14275MS1							1																																								0
+14324	PUD No 2 of Pacific County	WA	14324WA	14324WA1							1																																								0
+14354	PacifiCorp	CA	14354CA	14354CA1							1																																								0
+14354	PacifiCorp	ID	14354ID	14354ID1							1																																								0
+14354	PacifiCorp	NV	14354NV	14354NV1							1																																								0
+14354	PacifiCorp	OR	14354OR	14354OR1							1																																								0
+14354	PacifiCorp	UT	14354UT	14354UT1							1																																								0
+14354	PacifiCorp	WY	14354WY	14354WY1							1																																								0
+14398	Palmetto Electric Coop Inc	SC	14398SC	14398SC1							1																																								0
+14455	City of Paris - (TN)	KY	14455KY	14455KY1							1																																								0
+14455	City of Paris - (TN)	TN	14455TN	14455TN1							1																																								0
+14468	People's Cooperative Services	MN	14468MN	14468MN1							1																																								0
+14471	Parke County Rural E M C	IN	14471IN	14471IN1							1																																								0
+14500	Park Electric Coop Inc	MT	14500MT	14500MT1							1																																								0
+14534	City of Pasadena - (CA)	CA	14534CA	14534CA1							1																																								0
+14557	Pee Dee Electric Coop, Inc	SC	14557SC	14557SC1							1																																								0
+14624	PUD No 2 of Grant County	WA	14624WA	14624WA1							1																																								0
+14626	Pedernales Electric Coop, Inc	TX	14626TX	14626TX1							1																																								0
+14649	Planters Electric Member Corp	GA	14649GA	14649GA1							1																																								0
+14668	Peninsula Light Company	WA	14668WA	14668WA1							1																																								0
+14717	Pee Dee Electric Member Corp	NC	14717NC	14717NC1							1																																								0
+14724	Pennyrile Rural Electric Coop	KY	14724KY	14724KY1							1																																								0
+14724	Pennyrile Rural Electric Coop	TN	14724TN	14724TN1							1																																								0
+14775	People's Electric Cooperative	OK	14775OK	14775OK1							1																																								0
+14947	City of Philadelphia - (MS)	MS	14947MS	14947MS1							1																																								0
+15016	Pickwick Electric Coop	MS	15016MS	15016MS1							1																																								0
+15016	Pickwick Electric Coop	TN	15016TN	15016TN1							1																																								0
+15034	Pierce-Pepin Coop Services	MN	15034MN	15034MN1							1																																								0
+15034	Pierce-Pepin Coop Services	WI	15034WI	15034WI1							1																																								0
+15141	Plateau Electric Cooperative	TN	15141TN	15141TN1							1																																								0
+15159	City of Plymouth - (WI)	WI	15159WI	15159WI1							1																																								0
+15211	Pontotoc Electric Power Assn	MS	15211MS	15211MS1							1																																								0
+15248	Portland General Electric Co	WA	15248WA	15248WA1							1																																								0
+15257	Poudre Valley REA, Inc	CO	15257CO	15257CO1							1																																								0
+15293	Powell Valley Electric Coop	TN	15293TN	15293TN1							1																																								0
+15293	Powell Valley Electric Coop	VA	15293VA	15293VA1							1																																								0
+15311	Prague Public Works Authority	OK	15311OK	15311OK1							1																																								0
+15312	Prairie Du Sac Municipal Electric Dept	WI	15312WI	15312WI1							1																																								0
+15334	Prentiss County Elec Pwr Assn	MS	15334MS	15334MS1							1																																								0
+15344	Polk-Burnett Electric Coop	MN	15344MN	15344MN1							1																																								0
+15344	Polk-Burnett Electric Coop	WI	15344WI	15344WI1							1																																								0
+15356	Price Electric Coop Inc	WI	15356WI	15356WI1							1																																								0
+15419	PUD No 3 of Mason County	WA	15419WA	15419WA1							1																																								0
+15470	Duke Energy Indiana, LLC	KY	15470KY	15470KY1							1																																								0
+15470	Duke Energy Indiana, LLC	OH	15470OH	15470OH1							1																																								0
+15473	Public Service Co of NM	NM	15473NM	15473NM1							1																																								0
+15474	Public Service Co of Oklahoma	OK	15474OK	15474OK1							1																																								0
+15507	City of Pulaski - (TN)	AL	15507AL	15507AL1							1																																								0
+15507	City of Pulaski - (TN)	TN	15507TN	15507TN1							1																																								0
+15700	Rayle Electric Membership Corp	GA	15700GA	15700GA1							1																																								0
+15746	Red River Valley Rrl Elec Assn	OK	15746OK	15746OK1							1																																								0
+15804	Reedsburg Utility Comm	WI	15804WI	15804WI1							1																																								0
+15978	City of Richland Center - (WI)	WI	15978WI	15978WI1							1																																								0
+16060	Riverland Energy Cooperative	MN	16060MN	16060MN1							1																																								0
+16060	Riverland Energy Cooperative	WI	16060WI	16060WI1							1																																								0
+16082	City of River Falls	WI	16082WI	16082WI1							1																																								0
+16223	City of Rockwood - (TN)	TN	16223TN	16223TN1							1																																								0
+16284	Roseau Electric Coop, Inc	MN	16284MN	16284MN1							1																																								0
+16295	City of Roseville - (CA)	CA	16295CA	16295CA1							1																																								0
+16368	Runestone Electric Assn	MN	16368MN	16368MN1							1																																								0
+16382	Rural Electric Coop, Inc	OK	16382OK	16382OK1							1																																								0
+16458	City of Russellville - (AL)	AL	16458AL	16458AL1							1																																								0
+16459	City of Russellville - (KY)	KY	16459KY	16459KY1							1																																								0
+16534	Sacramento Municipal Util Dist	CA	16534CA	16534CA1							1																																								0
+16587	Salt River Electric Coop Corp	KY	16587KY	16587KY1							1																																								0
+16603	San Luis Valley R E C, Inc	CO	16603CO	16603CO1							1																																								0
+16606	Santee Electric Coop, Inc	SC	16606SC	16606SC1							1																																								0
+16611	Access Energy Coop	IA	16611IA	16611IA1							1																																								0
+16622	San Miguel Power Assn, Inc	CO	16622CO	16622CO1							1																																								0
+16629	Sand Mountain Electric Coop	AL	16629AL	16629AL1							1																																								0
+16649	Sangre De Cristo Elec Assn Inc	CO	16649CO	16649CO1							1																																								0
+16655	City of Santa Clara - (CA)	CA	16655CA	16655CA1							1																																								0
+16674	Satilla Rural Elec Member Corporation	GA	16674GA	16674GA1							1																																								0
+16740	Scenic Rivers Energy Coop	IL	16740IL	16740IL1							1																																								0
+16740	Scenic Rivers Energy Coop	WI	16740WI	16740WI1							1																																								0
+16829	City of Scottsboro	AL	16829AL	16829AL1							1																																								0
+16865	Sawnee Electric Membership Corporation	GA	16865GA	16865GA1							1																																								0
+16868	City of Seattle - (WA)	WA	16868WA	16868WA1							1																																								0
+16930	Sequachee Valley Electric Coop	AL	16930AL	16930AL1							1																																								0
+16930	Sequachee Valley Electric Coop	TN	16930TN	16930TN1							1																																								0
+16949	Sevier County Electric System	TN	16949TN	16949TN1							1																																								0
+17033	Sheffield Utilities	AL	17033AL	17033AL1							1																																								0
+17044	Shelby Energy Co-op, Inc	KY	17044KY	17044KY1							1																																								0
+17047	City of Shelbyville - (TN)	TN	17047TN	17047TN1							1																																								0
+17127	Town of Shrewsbury - (MA)	MA	17127MA	17127MA1							1																																								0
+17166	Sierra Pacific Power Co	CA	17166CA	17166CA1							1																																								0
+17166	Sierra Pacific Power Co	NV	17166NV	17166NV1							1																																								0
+17260	North West Rural Electric Coop	IA	17260IA	17260IA1							1																																								0
+17267	Sioux Valley SW Elec Coop	MN	17267MN	17267MN1							1																																								0
+17267	Sioux Valley SW Elec Coop	SD	17267SD	17267SD1							1																																								0
+17290	Slash Pine Elec Member Corp	FL	17290FL	17290FL1							1																																								0
+17290	Slash Pine Elec Member Corp	GA	17290GA	17290GA1							1																																								0
+17324	Slinger Utilities	WI	17324WI	17324WI1							1																																								0
+17452	City of Smithville - (TN)	TN	17452TN	17452TN1							1																																								0
+17470	PUD 1 of Snohomish County	WA	17470WA	17470WA1							1																																								0
+17534	South Alabama Elec Coop, Inc	AL	17534AL	17534AL1							1																																								0
+17543	South Carolina Public Service Authority	SC	17543SC	17543SC1							1																																								0
+17564	South Kentucky Rural E C C	KY	17564KY	17564KY1							1																																								0
+17564	South Kentucky Rural E C C	TN	17564TN	17564TN1							1																																								0
+17592	Southeast Colorado Power Assn	CO	17592CO	17592CO1							1																																								0
+17592	Southeast Colorado Power Assn	KS	17592KS	17592KS1							1																																								0
+17599	Southeastern Indiana R E M C	IN	17599IN	17599IN1							1																																								0
+17599	Southeastern Indiana R E M C	OH	17599OH	17599OH1							1																																								0
+17603	Southeastern Electric Coop Inc - (OK)	OK	17603OK	17603OK1							1																																								0
+17603	Southeastern Electric Coop Inc - (OK)	TX	17603TX	17603TX1							1																																								0
+17609	Southern California Edison Co	AZ	17609AZ	17609AZ1							1																																								0
+17609	Southern California Edison Co	CA	17609CA	17609CA1							1																																								0
+17681	Southwest Rural Elec Assn Inc	OK	17681OK	17681OK1							1																																								0
+17694	Southwest Tennessee E M C	TN	17694TN	17694TN1							1																																								0
+17718	Southwestern Public Service Co	KS	17718KS	17718KS1							1																																								0
+17718	Southwestern Public Service Co	NM	17718NM	17718NM1							1																																								0
+17718	Southwestern Public Service Co	OK	17718OK	17718OK1							1																																								0
+17718	Southwestern Public Service Co	TX	17718TX	17718TX1							1																																								0
+17740	City of Sparta	TN	17740TN	17740TN1							1																																								0
+17826	Springer Electric Coop, Inc	NM	17826NM	17826NM1							1																																								0
+17829	City of Springfield - (TN)	TN	17829TN	17829TN1							1																																								0
+17832	Snapping Shoals El Member Corp	GA	17832GA	17832GA1							1																																								0
+17839	City of Springfield - (OR)	OR	17839OR	17839OR1							1																																								0
+17868	St Croix Electric Coop	MN	17868MN	17868MN1							1																																								0
+17868	St Croix Electric Coop	WI	17868WI	17868WI1							1																																								0
+17874	City of St George	UT	17874UT	17874UT1							1																																								0
+18006	City of Starkville	MS	18006MS	18006MS1							1																																								0
+18019	Stearns Cooperative Elec Assn	MN	18019MN	18019MN1							1																																								0
+18249	City of Sturgeon Bay - (WI)	WI	18249WI	18249WI1							1																																								0
+18305	Sumter Electric Member Corp	GA	18305GA	18305GA1							1																																								0
+18312	Sun Prairie Utilities	WI	18312WI	18312WI1							1																																								0
+18383	Taylor Electric Coop - (WI)	WI	18383WI	18383WI1							1																																								0
+18384	City of Sweetwater	TN	18384TN	18384TN1							1																																								0
+18429	City of Tacoma - (WA)	WA	18429WA	18429WA1							1																																								0
+18446	T I P Rural Electric Coop	IA	18446IA	18446IA1							1																																								0
+18447	Tallahatchie Valley E P A	MS	18447MS	18447MS1							1																																								0
+18472	City of Tarrant	AL	18472AL	18472AL1							1																																								0
+18499	Three Notch Elec Member Corp	AL	18499AL	18499AL1							1																																								0
+18499	Three Notch Elec Member Corp	GA	18499GA	18499GA1							1																																								0
+18642	Tennessee Valley Authority	AL	18642AL	18642AL1							1																																								0
+18642	Tennessee Valley Authority	AR	18642AR	18642AR1							1																																								0
+18642	Tennessee Valley Authority	GA	18642GA	18642GA1							1																																								0
+18642	Tennessee Valley Authority	KY	18642KY	18642KY1							1																																								0
+18642	Tennessee Valley Authority	MS	18642MS	18642MS1							1																																								0
+18642	Tennessee Valley Authority	NC	18642NC	18642NC1							1																																								0
+18642	Tennessee Valley Authority	TN	18642TN	18642TN1							1																																								0
+18642	Tennessee Valley Authority	VA	18642VA	18642VA1							1																																								0
+18643	Tennessee Valley Electric Coop	TN	18643TN	18643TN1							1																																								0
+18940	Tipmont Rural Elec Member Corp	IN	18940IN	18940IN1							1																																								0
+18942	Tipton Municipal Electric Util	IN	18942IN	18942IN1							1																																								0
+18943	Tippah Electric Power Assn	MS	18943MS	18943MS1							1																																								0
+18951	Tishomingo County E P A	AL	18951AL	18951AL1							1																																								0
+18951	Tishomingo County E P A	MS	18951MS	18951MS1							1																																								0
+18956	Tri-County Elec Member Corp	GA	18956GA	18956GA1							1																																								0
+19007	Tombigbee Electric Power Assn	MS	19007MS	19007MS1							1																																								0
+19022	Tongue River Electric Coop Inc	MT	19022MT	19022MT1							1																																								0
+19149	Trenton TN (City of)	TN	19149TN	19149TN1							1																																								0
+19154	Tri-State Electric Member Corp	GA	19154GA	19154GA1							1																																								0
+19154	Tri-State Electric Member Corp	NC	19154NC	19154NC1							1																																								0
+19154	Tri-State Electric Member Corp	TN	19154TN	19154TN1							1																																								0
+19162	Tri-County Elec Member Corp	KY	19162KY	19162KY1							1																																								0
+19162	Tri-County Elec Member Corp	TN	19162TN	19162TN1							1																																								0
+19219	Diverse Power Incorporated	AL	19219AL	19219AL1							1																																								0
+19219	Diverse Power Incorporated	GA	19219GA	19219GA1							1																																								0
+19266	Tullahoma Board-Public Utils	TN	19266TN	19266TN1							1																																								0
+19273	City of Tupelo - (MS)	MS	19273MS	19273MS1							1																																								0
+19307	City of Tuscumbia	AL	19307AL	19307AL1							1																																								0
+19324	Two Rivers Water & Light	WI	19324WI	19324WI1							1																																								0
+19325	Umatilla Electric Coop Assn	OR	19325OR	19325OR1							1																																								0
+19430	City of Union City	TN	19430TN	19430TN1							1																																								0
+19436	Union Electric Co - (MO)	IA	19436IA	19436IA1							1																																								0
+19436	Union Electric Co - (MO)	IL	19436IL	19436IL1							1																																								0
+19437	Western Iowa Power Coop	IA	19437IA	19437IA1							1																																								0
+19446	Duke Energy Kentucky	IN	19446IN	19446IN1							1																																								0
+19446	Duke Energy Kentucky	KY	19446KY	19446KY1							1																																								0
+19446	Duke Energy Kentucky	OH	19446OH	19446OH1							1																																								0
+19499	United Power, Inc	CO	19499CO	19499CO1							1																																								0
+19547	Hawaiian Electric Co Inc	HI	19547HI	19547HI1							1																																								0
+19574	Upper Cumberland E M C	TN	19574TN	19574TN1							1																																								0
+19578	Upper Peninsula Power Company	MI	19578MI	19578MI1							1																																								0
+19581	Upson Elec Member Corp	GA	19581GA	19581GA1							1																																								0
+19813	Vernon Electric Coop	WI	19813WI	19813WI1							1																																								0
+19876	Virginia Electric & Power Co	DC	19876DC	19876DC1							1																																								0
+19876	Virginia Electric & Power Co	MD	19876MD	19876MD1							1																																								0
+19876	Virginia Electric & Power Co	NC	19876NC	19876NC1							1																																								0
+19898	Volunteer Electric Coop	GA	19898GA	19898GA1							1																																								0
+19898	Volunteer Electric Coop	TN	19898TN	19898TN1							1																																								0
+20065	Walton Electric Member Corp	GA	20065GA	20065GA1							1																																								0
+20130	Warren Rural Elec Coop Corp	KY	20130KY	20130KY1							1																																								0
+20130	Warren Rural Elec Coop Corp	TN	20130TN	20130TN1							1																																								0
+20140	City of Washington - (GA)	GA	20140GA	20140GA1							1																																								0
+20146	Washington Elec Member Corp	GA	20146GA	20146GA1							1																																								0
+20169	Avista Corp	ID	20169ID	20169ID1							1																																								0
+20169	Avista Corp	WA	20169WA	20169WA1							1																																								0
+20176	Water Valley Electric Dept MS (City of)	MS	20176MS	20176MS1							1																																								0
+20182	Waterloo Light & Water Commission	WI	20182WI	20182WI1							1																																								0
+20214	Waverly Municipal Elec Utility	IA	20214IA	20214IA1							1																																								0
+20228	Weakley County Mun Elec Sys	TN	20228TN	20228TN1							1																																								0
+20310	Town of Wellesley - (MA)	MA	20310MA	20310MA1							1																																								0
+20377	West Kentucky Rural E C C	KY	20377KY	20377KY1							1																																								0
+20394	City of West Point - (MS)	MS	20394MS	20394MS1							1																																								0
+20413	Mountrail-Williams Elec Coop	ND	20413ND	20413ND1							1																																								0
+20434	Westby Electric & Water Utility	WI	20434WI	20434WI1							1																																								0
+20477	City of Westerville - (OH)	OH	20477OH	20477OH1							1																																								0
+20583	Whitehall Municipal Electric Utility	WI	20583WI	20583WI1							1																																								0
+20603	Northeastern Rural E M C	IN	20603IN	20603IN1							1																																								0
+20639	Wild Rice Electric Coop, Inc	MN	20639MN	20639MN1							1																																								0
+20793	City of Winchester - (TN)	TN	20793TN	20793TN1							1																																								0
+20841	Wiregrass Electric Coop, Inc	AL	20841AL	20841AL1							1																																								0
+20847	Wisconsin Electric Power Co	MI	20847MI	20847MI1							1																																								0
+20856	Wisconsin Power & Light Co	IA	20856IA	20856IA1							1																																								0
+20856	Wisconsin Power & Light Co	WI	20856WI	20856WI1							1																																								0
+20860	Wisconsin Public Service Corp	MI	20860MI	20860MI1							1																																								0
+20860	Wisconsin Public Service Corp	WI	20860WI	20860WI1							1																																								0
+20996	Wright-Hennepin Coop Elec Assn	MN	20996MN	20996MN1							1																																								0
+20997	Yellowstone Valley Elec Co-op	MT	20997MT	20997MT1							1																																								0
+21002	York Electric Coop Inc	SC	21002SC	21002SC1							1																																								0
+21075	Y-W Electric Assn Inc	CO	21075CO	21075CO1							1																																								0
+21081	Yampa Valley Electric Assn Inc	CO	21081CO	21081CO1							1																																								0
+21081	Yampa Valley Electric Assn Inc	WY	21081WY	21081WY1							1																																								0
+21101	Yellow Springs OH (Village of)	OH	21101OH	21101OH1							1																																								0
+21513	Fergus Electric Coop, Inc	MT	21513MT	21513MT1							1																																								0
+21526	City of Laurens - (SC)	SC	21526SC	21526SC1							1																																								0
+22500	Westar Energy Inc	KS	22500KS	22500KS1							1																																								0
+22500	Westar Energy Inc	MO	22500MO	22500MO1							1																																								0
+22500	Westar Energy Inc	OK	22500OK	22500OK1							1																																								0
+23586	Vigilante Electric Coop, Inc	ID	23586ID	23586ID1							1																																								0
+23586	Vigilante Electric Coop, Inc	MT	23586MT	23586MT1							1																																								0
+24753	Boone County Rural EMC	IN	24753IN	24753IN1							1																																								0
+24949	Cass County Elec Coop Inc	ND	24949ND	24949ND1							1																																								0
+25177	Dakota Electric Association	MN	25177MN	25177MN1							1																																								0
+26218	Little Ocmulgee El Member Corp	GA	26218GA	26218GA1							1																																								0
+26934	Red Lake Electric Coop, Inc	MN	26934MN	26934MN1							1																																								0
+26939	Red River Valley Coop Pwr Assn	MN	26939MN	26939MN1							1																																								0
+27222	City of Ripley - (TN)	TN	27222TN	27222TN1							1																																								0
+28541	Clatskanie Peoples Util Dist	OR	28541OR	28541OR1							1																																								0
+30517	Pioneer Electric Coop, Inc - (AL)	AL	30517AL	30517AL1							1																																								0
+31833	Okefenoke Rural El Member Corp	FL	31833FL	31833FL1							1																																								0
+31833	Okefenoke Rural El Member Corp	GA	31833GA	31833GA1							1																																								0
+40127	Clarke-Washington E M C	AL	40127AL	40127AL1							1																																								0
+40165	Dixie Escalante R E A, Inc	NV	40165NV	40165NV1							1																																								0
+40165	Dixie Escalante R E A, Inc	UT	40165UT	40165UT1							1																																								0
+40166	Chickasaw Electric Coop, Inc	TN	40166TN	40166TN1							1																																								0
+40212	Colquitt Electric Membership Corp	GA	40212GA	40212GA1							1																																								0
+40236	Forked Deer Electric Coop, Inc	TN	40236TN	40236TN1							1																																								0
+40293	Northwestern Rural E C A, Inc - (PA)	OH	40293OH	40293OH1							1																																								0
+40302	North East Mississippi EPA	MS	40302MS	40302MS1							1																																								0
+40303	Monroe County Elec Power Assn	MS	40303MS	40303MS1							1																																								0
+40304	Minnesota Valley Coop L&P Assn	MN	40304MN	40304MN1							1																																								0
+40305	Hickman Fulton Counties RECC	KY	40305KY	40305KY1							1																																								0
+40305	Hickman Fulton Counties RECC	TN	40305TN	40305TN1							1																																								0
+40364	Courtland Electric Dept	AL	40364AL	40364AL1							1																																								0
+40437	Emerald People's Utility Dist	OR	40437OR	40437OR1							1																																								0
+40438	Columbia River Peoples Ut Dist	OR	40438OR	40438OR1							1																																								0
+40441	Town of Murphy - (NC)	NC	40441NC	40441NC1							1																																								0
